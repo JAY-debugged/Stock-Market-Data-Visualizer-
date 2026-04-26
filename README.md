@@ -1,2 +1,2 @@
-# Stock-Market-Data-Visualizer-
-helpfull for future stock prediction
+#STOCK MARKET VISUALIZER#
+helps to read histopry of a stock
